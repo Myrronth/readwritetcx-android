@@ -1,7 +1,7 @@
 # ReadWriteTcx for Android
 
-A library to read (parse) and write TCX files, built for Android. The reference schema is [Training Center Database v2]
-(https://www8.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd).
+A library to read (parse) and write TCX files, built for Android. The reference schema is
+[Training Center Database v2](https://www8.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd).
 
 Currently, only a small subset is implementented:
 - Activities
