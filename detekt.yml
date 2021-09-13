@@ -1,0 +1,38 @@
+formatting:
+  EnumEntryNameCase:
+    active: true
+    autoCorrect: true
+  MaximumLineLength:
+    active: false
+  MultiLineIfElse:
+    active: true
+    autoCorrect: true
+  NoEmptyFirstLineInMethodBlock:
+    active: true
+    autoCorrect: true
+  PackageName:
+    active: true
+    autoCorrect: true
+  SpacingAroundAngleBrackets:
+    active: false
+    autoCorrect: true
+  SpacingAroundDoubleColon:
+    active: false
+    autoCorrect: true
+  SpacingAroundUnaryOperator:
+    active: false
+    autoCorrect: true
+  SpacingBetweenDeclarationsWithAnnotations:
+    active: false
+    autoCorrect: true
+  SpacingBetweenDeclarationsWithComments:
+    active: false
+    autoCorrect: true
+
+style:
+  ForbiddenComment:
+    active: false
+  ReturnCount:
+    max: 5
+    excludeGuardClauses: true
+

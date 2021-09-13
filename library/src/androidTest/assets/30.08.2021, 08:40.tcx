@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd" xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2" xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2" xmlns:ns4="http://www.garmin.com/xmlschemas/ProfileExtension/v1" xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1" xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Activities>
+        <Activity Sport="Biking">
+            <Id>2021-08-30T06:40:57.000Z</Id>
+            <Lap StartTime="2021-08-30T06:40:57.000Z">
+                <TotalTimeSeconds>4.0</TotalTimeSeconds>
+                <DistanceMeters>29.295530077631227</DistanceMeters>
+                <MaximumSpeed>1.7931684255599976</MaximumSpeed>
+                <Calories>0</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+                <Track>
+                    <Trackpoint>
+                        <Time>2021-08-30T06:40:57.000Z</Time>
+                        <Position>
+                            <LatitudeDegrees>49.46517162210294</LatitudeDegrees>
+                            <LongitudeDegrees>11.083047213154208</LongitudeDegrees>
+                        </Position>
+                        <AltitudeMeters>319.6296710671304</AltitudeMeters>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Extensions>
+                            <ns3:TPX>
+                                <ns3:Speed>1.7931684255599976</ns3:Speed>
+                            </ns3:TPX>
+                        </Extensions>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <Time>2021-08-30T06:41:01.000Z</Time>
+                        <Position>
+                            <LatitudeDegrees>49.4651634694659</LatitudeDegrees>
+                            <LongitudeDegrees>11.08325934153662</LongitudeDegrees>
+                        </Position>
+                        <AltitudeMeters>319.4640754161719</AltitudeMeters>
+                        <DistanceMeters>15.403439464511816</DistanceMeters>
+                        <Extensions>
+                            <ns3:TPX>
+                                <ns3:Speed>1.5232352018356323</ns3:Speed>
+                            </ns3:TPX>
+                        </Extensions>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <Time>2021-08-30T06:41:05.000Z</Time>
+                        <Position>
+                            <LatitudeDegrees>49.465192701044</LatitudeDegrees>
+                            <LongitudeDegrees>11.083445666773297</LongitudeDegrees>
+                        </Position>
+                        <AltitudeMeters>319.43671206291765</AltitudeMeters>
+                        <DistanceMeters>13.892090613119413</DistanceMeters>
+                        <Extensions>
+                            <ns3:TPX>
+                                <ns3:Speed>1.7726269960402758</ns3:Speed>
+                            </ns3:TPX>
+                        </Extensions>
+                    </Trackpoint>
+                </Track>
+                <Extensions>
+                    <ns3:LX>
+                        <ns3:AvgSpeed>1.647931098937954</ns3:AvgSpeed>
+                    </ns3:LX>
+                </Extensions>
+            </Lap>
+            <Notes></Notes>
+        </Activity>
+    </Activities>
+    <Author xsi:type="Application_t">
+        <Name>Eyewear</Name>
+        <LangID>de</LangID>
+    </Author>
+</TrainingCenterDatabase>
