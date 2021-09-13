@@ -2,7 +2,7 @@ object App {
     const val applicationId = "com.tobiaskress.readwritetcxandroid.example"
     const val artifactId = "readwritetcxandroid"
     const val versionCode = 1
-    const val versionName = "1.0.0"
+    const val versionName = "0.1.0"
 }
 
 object Library {
